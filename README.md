@@ -1,6 +1,8 @@
 
 # Wemmbu 风格 Minecraft PVP 零基础超详细干货教程
 
+全网**最详细Wemmbu PVP**教程
+
 > [!NOTE]
 > **适合人群：** 完全零基础、刚开始学习 Minecraft Java 版 PVP 的玩家。
 >
@@ -13,8 +15,166 @@
 > [!IMPORTANT]
 > **这不是“看起来很帅”的连招合集。** 后面的训练全部尽量拆成可执行动作：**输入 → 目标 → 错误 → 修正 → 达标标准**。如果一个技巧不能告诉你“怎么练”和“什么时候用”，就不算真正的 PVP 教学。
 
----
+<details>
+<summary><strong>📚 目录</strong>　<span>点击展开 / 收起</span></summary>
 
+<br>
+
+<table>
+<tr><td><strong>🧭 快速导航</strong></td></tr>
+<tr><td>
+
+<strong>▸ <a href="#1-先说结论wemmbu-风格-pvp-到底在练什么">1. 先说结论：Wemmbu 风格 PVP 到底在练什么？</a></strong><br>
+<strong>▸ <a href="#2-先把你的游戏设置好">2. 先把你的游戏设置好</a></strong><br>
+<strong>▸ <a href="#21-灵敏度-sensitivity鼠标灵敏度">2.1 灵敏度 Sensitivity（鼠标灵敏度）</a></strong><br>
+　　<a href="#一个简单原则">↳ 一个简单原则</a><br>
+　　<a href="#零基础建议">↳ 零基础建议</a><br>
+<strong>▸ <a href="#3-pvp-英文词汇表">3. PVP 英文词汇表</a></strong><br>
+<strong>▸ <a href="#4-第一阶段你需要先理解战斗空间">4. 第一阶段：你需要先理解“战斗空间”</a></strong><br>
+<strong>▸ <a href="#5-movement移动pvp-的地基">5. Movement（移动）：PVP 的地基</a></strong><br>
+<strong>▸ <a href="#6-strafe横向走位">6. Strafe（横向走位）</a></strong><br>
+<strong>▸ <a href="#61-strafe-不是疯狂左右按">6.1 Strafe 不是“疯狂左右按”</a></strong><br>
+<strong>▸ <a href="#7-unpredictable-movement不可预测移动">7. Unpredictable Movement（不可预测移动）</a></strong><br>
+<strong>▸ <a href="#8-movement-的三个核心变量">8. Movement 的三个核心变量</a></strong><br>
+<strong>▸ <a href="#81-direction方向">8.1 Direction（方向）</a></strong><br>
+<strong>▸ <a href="#82-speed速度">8.2 Speed（速度）</a></strong><br>
+<strong>▸ <a href="#83-rhythm节奏">8.3 Rhythm（节奏）</a></strong><br>
+<strong>▸ <a href="#9-movement-训练不要直接和高手打">9. Movement 训练：不要直接和高手打</a></strong><br>
+<strong>▸ <a href="#91-第二阶段">9.1 第二阶段</a></strong><br>
+<strong>▸ <a href="#92-第三阶段">9.2 第三阶段</a></strong><br>
+<strong>▸ <a href="#10-aim瞄准">10. Aim（瞄准）</a></strong><br>
+<strong>▸ <a href="#11-tracking跟踪瞄准">11. Tracking（跟踪瞄准）</a></strong><br>
+<strong>▸ <a href="#111-固定目标-tracking">11.1 固定目标 Tracking</a></strong><br>
+<strong>▸ <a href="#112-慢速目标-tracking">11.2 慢速目标 Tracking</a></strong><br>
+<strong>▸ <a href="#113-快速目标-tracking">11.3 快速目标 Tracking</a></strong><br>
+<strong>▸ <a href="#114-自己移动-目标移动">11.4 自己移动 + 目标移动</a></strong><br>
+<strong>▸ <a href="#12-prediction预判">12. Prediction（预判）</a></strong><br>
+<strong>▸ <a href="#13-怎么判断敌人未来往哪走">13. 怎么判断敌人未来往哪走？</a></strong><br>
+<strong>▸ <a href="#131-当前方向">13.1 当前方向</a></strong><br>
+<strong>▸ <a href="#132-最近行为">13.2 最近行为</a></strong><br>
+<strong>▸ <a href="#133-场地限制">13.3 场地限制</a></strong><br>
+<strong>▸ <a href="#14-spacing距离控制">14. Spacing（距离控制）</a></strong><br>
+<strong>▸ <a href="#141-什么是舒服距离">14.1 什么是舒服距离？</a></strong><br>
+<strong>▸ <a href="#15-w-tap">15. W-Tap</a></strong><br>
+<strong>▸ <a href="#16-s-tap">16. S-Tap</a></strong><br>
+<strong>▸ <a href="#17-基础近战先不要碰-elytra">17. 基础近战：先不要碰 Elytra</a></strong><br>
+<strong>▸ <a href="#18-elytra鞘翅进入三维-pvp">18. Elytra（鞘翅）：进入三维 PVP</a></strong><br>
+<strong>▸ <a href="#19-elytra-第一课只飞不打">19. Elytra 第一课：只飞，不打</a></strong><br>
+　　<a href="#1-straight-flight直线飞行">↳ 1. Straight Flight（直线飞行）</a><br>
+　　<a href="#2-turn转向">↳ 2. Turn（转向）</a><br>
+　　<a href="#3-180-turn180度转向">↳ 3. 180 Turn（180度转向）</a><br>
+　　<a href="#4-height-control高度控制">↳ 4. Height Control（高度控制）</a><br>
+<strong>▸ <a href="#20-elytra-第二课目标点飞行">20. Elytra 第二课：目标点飞行</a></strong><br>
+<strong>▸ <a href="#21-elytra-第三课高速转向">21. Elytra 第三课：高速转向</a></strong><br>
+<strong>▸ <a href="#22-mace重锤到底应该怎么理解">22. Mace（重锤）到底应该怎么理解？</a></strong><br>
+<strong>▸ <a href="#23-mace-dive重锤俯冲">23. Mace Dive（重锤俯冲）</a></strong><br>
+<strong>▸ <a href="#24-mace-命中率训练">24. Mace 命中率训练</a></strong><br>
+<strong>▸ <a href="#25-移动目标-mace">25. 移动目标 Mace</a></strong><br>
+<strong>▸ <a href="#26-为什么斜向-mace-很重要">26. 为什么斜向 Mace 很重要？</a></strong><br>
+<strong>▸ <a href="#27-mace-的真正核心timing时机">27. Mace 的真正核心：Timing（时机）</a></strong><br>
+<strong>▸ <a href="#28-wind-charge风弹">28. Wind Charge（风弹）</a></strong><br>
+<strong>▸ <a href="#29-wind-charge-的四个用途">29. Wind Charge 的四个用途</a></strong><br>
+<strong>▸ <a href="#291-escape脱离">29.1 Escape（脱离）</a></strong><br>
+<strong>▸ <a href="#292-height-control高度控制">29.2 Height Control（高度控制）</a></strong><br>
+<strong>▸ <a href="#293-direction-change方向变化">29.3 Direction Change（方向变化）</a></strong><br>
+<strong>▸ <a href="#294-reposition重新定位">29.4 Reposition（重新定位）</a></strong><br>
+<strong>▸ <a href="#30-wind-charge-不应该乱用">30. Wind Charge 不应该乱用</a></strong><br>
+<strong>▸ <a href="#31-orbital轨道机动">31. Orbital（轨道机动）</a></strong><br>
+<strong>▸ <a href="#32-orbital-的目的不是转圈">32. Orbital 的目的不是“转圈”</a></strong><br>
+<strong>▸ <a href="#33-orbital-的三个维度">33. Orbital 的三个维度</a></strong><br>
+<strong>▸ <a href="#direction方向">Direction（方向）</a></strong><br>
+<strong>▸ <a href="#height高度">Height（高度）</a></strong><br>
+<strong>▸ <a href="#speed速度">Speed（速度）</a></strong><br>
+<strong>▸ <a href="#34-不要变成-a-d-a-d-机器人">34. 不要变成 A-D-A-D 机器人</a></strong><br>
+<strong>▸ <a href="#第一步hit命中">第一步：Hit（命中）</a></strong><br>
+<strong>▸ <a href="#第二步escape脱离">第二步：Escape（脱离）</a></strong><br>
+<strong>▸ <a href="#第三步reset重置">第三步：Reset（重置）</a></strong><br>
+<strong>▸ <a href="#第四步re-engage再次接战">第四步：Re-engage（再次接战）</a></strong><br>
+<strong>▸ <a href="#阶段-1接敌">阶段 1：接敌</a></strong><br>
+<strong>▸ <a href="#阶段-2试探">阶段 2：试探</a></strong><br>
+<strong>▸ <a href="#阶段-3第一次-bait">阶段 3：第一次 Bait</a></strong><br>
+<strong>▸ <a href="#阶段-4第二次接近">阶段 4：第二次接近</a></strong><br>
+<strong>▸ <a href="#阶段-5命中">阶段 5：命中</a></strong><br>
+<strong>▸ <a href="#阶段-6escape">阶段 6：Escape</a></strong><br>
+<strong>▸ <a href="#阶段-7reset">阶段 7：Reset</a></strong><br>
+<strong>▸ <a href="#阶段-8再次接战">阶段 8：再次接战</a></strong><br>
+　　<a href="#练法">↳ 练法</a><br>
+<strong>▸ <a href="#week-1movement-aim-基础周">Week 1：Movement + Aim 基础周</a></strong><br>
+<strong>▸ <a href="#week-2elytra-mace-基础周">Week 2：Elytra + Mace 基础周</a></strong><br>
+<strong>▸ <a href="#week-3wind-charge-orbital-3d-movement">Week 3：Wind Charge + Orbital + 3D Movement</a></strong><br>
+<strong>▸ <a href="#week-4bait-conditioning-mind-game">Week 4：Bait + Conditioning + Mind Game</a></strong><br>
+<strong>▸ <a href="#week-5实战复盘-能力整合周">Week 5：实战复盘 + 能力整合周</a></strong><br>
+　　<a href="#每周复盘标准">↳ 每周复盘标准</a><br>
+　　<a href="#每周训练时间模板">↳ 每周训练时间模板</a><br>
+<strong>▸ <a href="#1-只按-w">1. 只按 W</a></strong><br>
+<strong>▸ <a href="#2-只会左右摇">2. 只会左右摇</a></strong><br>
+<strong>▸ <a href="#3-灵敏度天天换">3. 灵敏度天天换</a></strong><br>
+<strong>▸ <a href="#4-只练点击速度">4. 只练点击速度</a></strong><br>
+<strong>▸ <a href="#5-看到人就打">5. 看到人就打</a></strong><br>
+<strong>▸ <a href="#6-一直追">6. 一直追</a></strong><br>
+<strong>▸ <a href="#7-mace-只从正上方">7. Mace 只从正上方</a></strong><br>
+<strong>▸ <a href="#8-风弹乱用">8. 风弹乱用</a></strong><br>
+<strong>▸ <a href="#9-打中后贪">9. 打中后贪</a></strong><br>
+<strong>▸ <a href="#10-不看地形">10. 不看地形</a></strong><br>
+<strong>▸ <a href="#11-不观察敌人习惯">11. 不观察敌人习惯</a></strong><br>
+<strong>▸ <a href="#12-输了只说对面厉害">12. 输了只说“对面厉害”</a></strong><br>
+<strong>▸ <a href="#13-一次练十种技术">13. 一次练十种技术</a></strong><br>
+<strong>▸ <a href="#14-只看高手视频不自己练">14. 只看高手视频，不自己练</a></strong><br>
+<strong>▸ <a href="#15-只追求像-wemmbu">15. 只追求“像 Wemmbu”</a></strong><br>
+　　<a href="#基础阶段">↳ 基础阶段</a><br>
+　　<a href="#elytra-阶段">↳ Elytra 阶段</a><br>
+　　<a href="#mace-阶段">↳ Mace 阶段</a><br>
+　　<a href="#高机动阶段">↳ 高机动阶段</a><br>
+<strong>▸ <a href="#1">1</a></strong><br>
+<strong>▸ <a href="#2">2</a></strong><br>
+<strong>▸ <a href="#3">3</a></strong><br>
+<strong>▸ <a href="#4">4</a></strong><br>
+<strong>▸ <a href="#5">5</a></strong><br>
+<strong>▸ <a href="#6">6</a></strong><br>
+<strong>▸ <a href="#7">7</a></strong><br>
+<strong>▸ <a href="#8">8</a></strong><br>
+<strong>▸ <a href="#9">9</a></strong><br>
+<strong>▸ <a href="#10">10</a></strong><br>
+<strong>▸ <a href="#阅读方式">📌 阅读方式</a></strong><br>
+<strong>▸ <a href="#附录-a一场训练应该怎么开始">📎 附录 A：一场训练应该怎么开始？</a></strong><br>
+<strong>▸ <a href="#附录-b每场-pvp-后只问自己五个问题">📎 附录 B：每场 PVP 后只问自己五个问题</a></strong><br>
+<strong>▸ <a href="#附录-c最简单的记忆版本">📎 附录 C：最简单的记忆版本</a></strong><br>
+<strong>▸ <a href="#81-先建立一个战斗状态机">81. 先建立一个战斗状态机</a></strong><br>
+<strong>▸ <a href="#82-什么时候应该-commit全力进攻">82. 什么时候应该 Commit（全力进攻）？</a></strong><br>
+<strong>▸ <a href="#83-攻击窗口应该怎么找">83. “攻击窗口”应该怎么找？</a></strong><br>
+<strong>▸ <a href="#84-追击为什么经常让新手越打越差">84. “追击”为什么经常让新手越打越差？</a></strong><br>
+<strong>▸ <a href="#85-两次假动作比一次真动作更有价值">85. “两次假动作”比“一次真动作”更有价值</a></strong><br>
+<strong>▸ <a href="#86-用反应延迟判断敌人">86. 用“反应延迟”判断敌人</a></strong><br>
+<strong>▸ <a href="#87-资源管理不要把-wind-charge-当紧急按钮">87. 资源管理：不要把 Wind Charge 当“紧急按钮”</a></strong><br>
+<strong>▸ <a href="#88-elytra-的核心不是飞得快而是飞到对的位置">88. Elytra 的核心不是“飞得快”，而是“飞到对的位置”</a></strong><br>
+<strong>▸ <a href="#89-mace-dive-不要只练命中要练落点">89. Mace Dive 不要只练“命中”，要练“落点”</a></strong><br>
+<strong>▸ <a href="#90-mace-训练的命中率陷阱">90. Mace 训练的“命中率陷阱”</a></strong><br>
+<strong>▸ <a href="#91-safe-hit安全命中应该怎么定义">91. “Safe Hit”（安全命中）应该怎么定义？</a></strong><br>
+<strong>▸ <a href="#92-复盘不要从死亡瞬间开始">92. 复盘不要从“死亡瞬间”开始</a></strong><br>
+<strong>▸ <a href="#93-第一个不可逆错误">93. 第一个不可逆错误</a></strong><br>
+<strong>▸ <a href="#94-给每场战斗打一个错误标签">94. 给每场战斗打一个“错误标签”</a></strong><br>
+<strong>▸ <a href="#95-一个非常实用的暂停训练法">95. 一个非常实用的“暂停训练法”</a></strong><br>
+<strong>▸ <a href="#96-视频学习法一段视频看三遍">96. 视频学习法：一段视频看三遍</a></strong><br>
+<strong>▸ <a href="#97-wemmbu-youtubeytb演示怎么正确看高手视频">97. Wemmbu YouTube（YTB）演示：怎么正确看高手视频</a></strong><br>
+　　<a href="#推荐演示-1i-mastered-minecraft-combat">↳ 🎥 推荐演示 1：I Mastered Minecraft Combat</a><br>
+　　<a href="#推荐演示-2its-impossible-to-catch-this-player">↳ 🎥 推荐演示 2：It's Impossible to Catch this Player</a><br>
+　　<a href="#推荐演示-3how-i-escaped-minecrafts-largest-prison">↳ 🎥 推荐演示 3：How I Escaped Minecraft's Largest Prison</a><br>
+　　<a href="#推荐演示-4i-created-minecrafts-greatest-civilization">↳ 🎥 推荐演示 4：I Created Minecraft's Greatest Civilization</a><br>
+　　<a href="#wemmbu-视频三遍观看法">↳ 👀 Wemmbu 视频三遍观看法</a><br>
+　　<a href="#视频观察记录模板">↳ 📝 视频观察记录模板</a><br>
+<strong>▸ <a href="#98-零基础玩家最应该避免的假进步">98. 零基础玩家最应该避免的“假进步”</a></strong><br>
+<strong>▸ <a href="#99-最终训练指标">99. 最终训练指标</a></strong><br>
+<strong>▸ <a href="#100-最终把-wemmbu-风格理解成一个决策系统">100. 最终把 Wemmbu 风格理解成一个“决策系统”</a></strong><br>
+</td></tr>
+</table>
+
+<br>
+
+<sub>💡 建议：零基础从前往后阅读；已有基础可直接跳到对应训练模块。</sub>
+
+</details>
+
+---
 ## 1. 先说结论：Wemmbu 风格 PVP 到底在练什么？
 
 很多新手看到高水平 PVP，会首先盯着“连招”。
@@ -2719,4 +2879,839 @@ Reset
 15 分钟 Aim
 15 分钟 Tracking
 15 分钟 Elytra
-15 分钟
+15 分钟 Mace
+10 分钟 Wind Charge
+5 分钟 Orbital
+```
+
+剩余时间：
+
+> 实战 + 录像复盘。
+
+---
+
+# 七十四、什么时候应该开始真人 PVP？
+
+不要等到：
+
+> “所有技术都 100% 会。”
+
+实际上没有这种时刻。
+
+建议：
+
+### 基础阶段
+
+```text
+Movement
+Aim
+Tracking
+```
+
+比较稳定后：
+
+> 可以开始真人 PVP。
+
+### Elytra 阶段
+
+开始：
+
+> 低压力实战。
+
+### Mace 阶段
+
+开始：
+
+> 专门练攻击窗口。
+
+### 高机动阶段
+
+开始：
+
+> 练完整战斗循环。
+
+---
+
+# 七十五、如何判断自己真正入门？
+
+你可以检查：
+
+- [ ] 移动时不会完全失去准星
+- [ ] 可以稳定 Strafe
+- [ ] 不会形成单一 Movement 节奏
+- [ ] 可以跟踪移动目标
+- [ ] 能够预测简单移动路线
+- [ ] 能控制攻击距离
+- [ ] 会基础 W-Tap
+- [ ] 会基础 S-Tap
+- [ ] 可以稳定驾驶 Elytra
+- [ ] 可以控制高度
+- [ ] 可以快速转向
+- [ ] 固定目标 Mace 命中稳定
+- [ ] 能攻击移动目标
+- [ ] 知道什么时候不应该 Mace
+- [ ] Wind Charge 不会乱用
+- [ ] 可以使用 Wind Charge 重新定位
+- [ ] 能做基础 Orbital
+- [ ] 能改变方向和高度
+- [ ] 知道什么是 Attack Window
+- [ ] 会基础 Bait
+- [ ] 能观察敌人的习惯
+- [ ] 命中后知道什么时候应该 Escape
+- [ ] 能够 Reset
+- [ ] 能重新接战
+
+如果只有前面几项：
+
+> 你是基础 PVP 玩家。
+
+如果已经掌握 Elytra + Mace + Wind Charge：
+
+> 你开始进入高机动 PVP。
+
+如果能够根据敌人的行为改变策略：
+
+> 你开始进入真正的高级阶段。
+
+---
+
+# 七十六、最终进阶路线
+
+完整路线建议：
+
+```text
+Level 1
+WASD
+↓
+Level 2
+Strafe
+↓
+Level 3
+Aim
+↓
+Level 4
+Tracking
+↓
+Level 5
+Prediction
+↓
+Level 6
+Spacing
+↓
+Level 7
+W-Tap / S-Tap
+↓
+Level 8
+基础近战
+↓
+Level 9
+Elytra
+↓
+Level 10
+3D Movement
+↓
+Level 11
+Mace
+↓
+Level 12
+Mace Dive
+↓
+Level 13
+Wind Charge
+↓
+Level 14
+Orbital
+↓
+Level 15
+Attack Window
+↓
+Level 16
+Bait
+↓
+Level 17
+Conditioning
+↓
+Level 18
+Mind Game
+↓
+Level 19
+Hit → Escape → Reset
+↓
+Level 20
+Adaptation
+```
+
+---
+
+# 七十七、最核心的 10 条口诀
+
+## 1
+
+> **先移动，再攻击。**
+
+## 2
+
+> **先观察，再决定。**
+
+## 3
+
+> **不要只追当前位置，要预测未来位置。**
+
+## 4
+
+> **不要只改变方向，也要改变高度和速度。**
+
+## 5
+
+> **不要让自己的 Movement 形成固定节奏。**
+
+## 6
+
+> **不要为了操作而操作。**
+
+## 7
+
+> **攻击前考虑退路。**
+
+## 8
+
+> **命中以后不要自动贪。**
+
+## 9
+
+> **敌人的习惯就是你的信息。**
+
+## 10
+
+> **真正的高手不是每次都攻击，而是知道什么时候应该攻击。**
+
+---
+
+# 七十八、最终理解：为什么 Wemmbu 风格看起来这么“离谱”？
+
+因为你看到的是结果。
+
+你看到：
+
+```text
+飞
+转
+风弹
+重锤
+再飞
+```
+
+但真正发生的是：
+
+```text
+Positioning
+位置控制
+      ↓
+Prediction
+预判
+      ↓
+Timing
+时机
+      ↓
+Movement
+移动
+      ↓
+Attack
+攻击
+      ↓
+Escape
+脱离
+      ↓
+Reset
+重置
+```
+
+所以如果你只模仿动作：
+
+> 很容易学成“乱飞”。
+
+如果你理解背后的逻辑：
+
+> 你就开始真正学习高机动 PVP。
+
+---
+
+# 七十九、最终实战模板
+
+进入一场 PVP 后，可以把自己的思维简化成：
+
+```text
+【1】观察
+敌人在哪里？
+他往哪里移动？
+他喜欢怎么躲？
+        ↓
+【2】试探
+接近，但不要立刻交资源。
+        ↓
+【3】诱导
+让敌人先暴露反应。
+        ↓
+【4】定位
+找到高度、距离、方向都舒服的位置。
+        ↓
+【5】预判
+判断敌人的未来位置。
+        ↓
+【6】攻击
+抓住 Attack Window。
+        ↓
+【7】脱离
+不要贪。
+        ↓
+【8】重置
+重新建立距离和位置。
+        ↓
+【9】观察
+敌人因为刚才的攻击改变打法了吗？
+        ↓
+【10】适应
+改变自己的下一次进攻。
+```
+
+---
+
+# 八十、真正的目标
+
+最后不要把目标定成：
+
+> “我要成为 Wemmbu。”
+
+这个目标太模糊。
+
+把目标拆成：
+
+```text
+我想让自己的 Movement 更稳定。
+```
+
+然后：
+
+```text
+我想让 Tracking 更稳定。
+```
+
+然后：
+
+```text
+我想让 Mace 命中率提高。
+```
+
+然后：
+
+```text
+我想学会用 Wind Charge 改变位置。
+```
+
+然后：
+
+```text
+我想知道什么时候应该攻击。
+```
+
+最后：
+
+```text
+我想根据敌人的行为改变打法。
+```
+
+当这些能力全部组合起来以后，你自然会形成属于自己的高机动 PVP 风格。
+
+---
+
+# 总结：Wemmbu 风格 PVP 的完整公式
+
+```text
+                MOVEMENT
+                   ↓
+             让自己难预测
+                   ↓
+                  AIM
+                   ↓
+             保持攻击能力
+                   ↓
+               TRACKING
+                   ↓
+             跟踪敌人
+                   ↓
+              PREDICTION
+                   ↓
+             预测未来位置
+                   ↓
+              POSITIONING
+                   ↓
+             找到有利位置
+                   ↓
+                TIMING
+                   ↓
+             等待攻击窗口
+                   ↓
+               MACE DIVE
+                   ↓
+                 HIT
+                   ↓
+              WIND CHARGE
+                   ↓
+                ESCAPE
+                   ↓
+                 RESET
+                   ↓
+              RE-ENGAGE
+                   ↓
+                ADAPT
+                   ↓
+              再次循环
+```
+
+> **Move → Predict → Strike → Escape → Reset → Adapt**
+>
+> **移动 → 预判 → 攻击 → 脱离 → 重置 → 适应**
+
+这套思维，比任何固定“连招表”都重要。
+
+---
+
+## 📌 阅读方式
+
+- 🟢 **零基础：** 从「Movement」开始顺序阅读。
+- 🟡 **已经会基础 PVP：** 重点看「Prediction」「Spacing」「Attack Window」。
+- 🔴 **主练 Elytra + Mace：** 重点看第 13～26 章。
+- 🧠 **想提升实战决策：** 重点看「Bait」「Conditioning」「Mind Game」和「录像复盘」。
+
+> [!TIP]
+> 不建议一次把所有技巧一起练。**一次只解决一个问题**，效果通常比同时堆很多花活更好。
+
+---
+
+## 📎 附录 A：一场训练应该怎么开始？
+
+进入训练场后，不要直接开始乱打。
+
+按照下面做：
+
+```text
+00:00 - 05:00
+Movement
+05:00 - 10:00
+Aim
+10:00 - 15:00
+Tracking
+15:00 - 20:00
+Elytra
+20:00 - 30:00
+Mace
+30:00 - 35:00
+Wind Charge
+35:00 - 40:00
+Orbital
+40:00 - 50:00
+真人实战
+50:00 - 60:00
+录像 / 复盘
+```
+
+如果只有 20 分钟：
+
+```text
+5 分钟 Movement
+5 分钟 Aim
+5 分钟 当前弱项
+5 分钟实战
+```
+
+---
+
+## 📎 附录 B：每场 PVP 后只问自己五个问题
+
+```text
+1. 我为什么第一次被打中？
+2. 我什么时候失去了位置优势？
+3. 我的哪一次攻击其实不应该打？
+4. 我什么时候应该 Escape？
+5. 下一次遇到相同情况，我准备怎么改？
+```
+
+如果你能认真回答这五个问题，你的每一场失败都会变成训练资料。
+
+---
+
+## 📎 附录 C：最简单的记忆版本
+
+如果整篇教程太长，只记住：
+
+```text
+1. 不要直线冲。
+2. 不要固定左右摇。
+3. 移动时保持准星。
+4. 看敌人的移动习惯。
+5. 预测敌人下一步。
+6. Elytra 不只是飞行，是位置控制。
+7. Mace 不只是从上往下砸。
+8. Wind Charge 不要乱交。
+9. 打中以后不一定要追。
+10. Hit → Escape → Reset。
+11. 让敌人先暴露反应。
+12. 根据敌人的反应改变打法。
+```
+
+> **真正的高水平 PVP，不是把更多按键塞进一秒钟，而是在正确的时间做正确的动作。**
+
+---
+
+# 🔥 进阶实战：把“会动作”变成“会打架”
+
+前面的内容解决的是单项技术。真正实战最容易出问题的地方，是你明明会 Elytra、会 Mace、会 Wind Charge，一进战斗还是乱。这是因为**技术之间没有决策层**。从这里开始，训练重点从“怎么按”转向“什么时候按”。
+
+## 81. 先建立一个战斗状态机
+
+把一场战斗想成 6 个状态，而不是一堆连招：
+
+| 状态 | 你应该做什么 | 不应该做什么 |
+|---|---|---|
+| `Observe` 观察 | 看敌人方向、资源、地形、习惯 | 看到人就冲 |
+| `Approach` 接近 | 保持可撤退路线 | 直接把自己送进近战范围 |
+| `Threaten` 威胁 | 用移动/高度制造压力 | 立刻交所有资源 |
+| `Commit` 进攻 | 抓 Attack Window（攻击窗口） | 因为“终于有机会”就乱打 |
+| `Escape` 脱离 | 改变距离/高度 | 命中后贪第二、第三次 |
+| `Reset` 重置 | 恢复位置、视角和资源 | 还没稳定就再次冲 |
+
+**真正实战的循环是 `Observe → Approach → Threaten → Commit → Escape → Reset`。** 你可以把它理解成 PVP 的“主循环”。如果死亡时你能指出自己死在哪个状态，复盘就会非常具体。
+
+## 82. 什么时候应该 Commit（全力进攻）？
+
+不要用“距离近”作为唯一条件。一个高质量 Commit 至少满足下面 3 项中的 2 项：**敌人的移动方向已经比较明确；你的攻击轨迹有足够空间；攻击结束后你有退路。** 例如敌人正在向右移动，而你已经在他的右前方建立了截击路线，此时比你从正后方疯狂追击更适合 Commit。反过来，如果敌人正在随机变向、你自己的高度很低、身后又没有脱离空间，即使看起来“可以砸”，也应该忍住。
+
+## 83. “攻击窗口”应该怎么找？
+
+可以直接记一个实战判断公式：
+
+```text
+Attack Window ≈ Enemy Predictable + You Positioned + Exit Available
+攻击窗口 ≈ 敌人可预测 + 你的位置合适 + 攻击后能脱离
+```
+
+缺一项都不一定要打。尤其是第三项 `Exit Available`（有退路）经常被新手忽略。高机动 PVP 中，一次 100% 成功的攻击如果让你随后暴露在敌人反击角度里，实际收益可能还不如一次 70% 成功率但能安全撤出的攻击。
+
+## 84. “追击”为什么经常让新手越打越差？
+
+因为追击会让你的行为逐渐变得线性。你盯着敌人的当前位置，敌人往哪跑你就往哪跑，最后双方形成：
+
+```text
+你 ─────────→ 敌人
+```
+
+此时你的视角、速度、路线全部容易预测。更好的做法是把追击改成**截击**：观察敌人的速度和方向后，走一条更短的路线去“接他”，而不是沿着他刚刚走过的路线追。Minecraft 的战斗空间越大，这个区别越明显。
+
+## 85. “两次假动作”比“一次真动作”更有价值
+
+例如你发现敌人看到你升高就马上躲。第一次升高：不攻击，观察他的躲避方向；第二次升高：仍然不急着攻击，让他形成“你又在骗”的判断；第三次再升高时，如果他的反应已经变慢，你就获得了一个心理窗口。这里真正练的不是“骗三次”，而是**记录敌人对某个动作的条件反射**。
+
+> [!NOTE]
+> Bait（诱导）不是固定套路。对同一个敌人连续使用同一个 Bait，会把你的 Bait 本身变成可预测动作。高级阶段应该学会“同一动作，不同结果”。
+
+## 86. 用“反应延迟”判断敌人
+
+实战中不需要精确测毫秒。只需要观察：你做一个明显动作后，敌人是**立即反应、稍后反应、还是基本不反应**。如果敌人每次看到你下降就立刻横移，你就知道他的注意力高度集中在 Mace 威胁；此时改变下降路线、延迟攻击或者从侧面进入，往往比继续正面压迫更有效。
+
+## 87. 资源管理：不要把 Wind Charge 当“紧急按钮”
+
+每一次 Wind Charge 都应该至少有一个明确目的：
+
+```text
+Escape       脱离
+Reposition   重新定位
+Height       调整高度
+Angle        改变攻击角度
+Combo Setup  创造下一次攻击条件
+```
+
+如果一次 Wind Charge 同时解决了两个问题，例如“脱离 + 获得更好的高度”，价值通常明显高于单纯为了移动几格而使用。训练时可以给自己一个规则：**每次使用后必须在脑子里说出目的；说不出来就不使用。** 这会非常快地减少乱交资源。
+
+## 88. Elytra 的核心不是“飞得快”，而是“飞到对的位置”
+
+新手会追求：
+
+> “我要飞得特别快。”
+
+更实用的目标是：
+
+> “我要在敌人进入我的攻击窗口前，提前到达一个有利角度。”
+
+例如敌人向右移动，你没有必要一直在他后面追。你可以从更高的位置切过去，让自己的轨迹与敌人的轨迹形成交叉。这个动作本质上是**Trajectory Management（轨迹管理）**，速度只是其中一个变量。
+
+## 89. Mace Dive 不要只练“命中”，要练“落点”
+
+把 Mace 训练分成三级：
+
+| 等级 | 训练内容 | 合格标准 |
+|---|---|---|
+| T1 | 固定目标 | 能稳定从指定方向进入攻击 |
+| T2 | 移动目标 | 能根据移动方向提前修正 |
+| T3 | 会躲的真人 | 能在敌人反应后改变攻击路线 |
+
+T1 练的是控制；T2 练的是 Prediction；T3 才开始真正练 Mind Game。很多人 T1 还没稳定就直接打 T3，于是所有失误都混在一起，最后不知道自己到底哪里有问题。
+
+## 90. Mace 训练的“命中率陷阱”
+
+假设你 30 次命中 25 次，看起来很好。但如果其中 20 次目标完全不动，这个数字对真人 PVP 的参考价值很低。建议至少记录 4 个数据：
+
+```text
+Static Hit Rate      固定目标命中率
+Moving Hit Rate      移动目标命中率
+Reactive Hit Rate    会躲目标命中率
+Safe Hit Rate        命中后能安全脱离的比例
+```
+
+最后一个指标尤其重要。**PVP 不是射击游戏，命中不等于赚。**
+
+## 91. “Safe Hit”（安全命中）应该怎么定义？
+
+一次攻击如果满足：
+
+```text
+命中
++
+自己没有立即进入敌人的优势角度
++
+有能力继续移动
+```
+
+才算高质量命中。比如你为了打一个很漂亮的 Mace Dive，落地后刚好停在敌人面前，那么这次虽然数字很高，决策却可能很差。训练时不要只截图“我打了多少伤害”，还要看**攻击后的 1～2 秒**。
+
+## 92. 复盘不要从“死亡瞬间”开始
+
+真正决定你死亡的动作，经常发生在死亡前几秒。建议倒放录像：
+
+```text
+死亡
+↑
+前 1 秒：为什么无法脱离？
+↑
+前 2 秒：为什么进入这个位置？
+↑
+前 3 秒：为什么选择 Commit？
+↑
+前 4 秒：敌人做了什么？
+```
+
+一直找到**第一个不可逆错误**。这比盯着最后那一下“为什么没躲开”更有用。
+
+## 93. 第一个不可逆错误
+
+例如你最后被 Mace 砸死，但真正错误可能是：
+
+```text
+敌人起飞
+↓
+你没有观察
+↓
+你继续追
+↓
+你的位置被拉到空旷区域
+↓
+你没有 Wind Charge
+↓
+敌人获得高度
+↓
+你被迫接招
+↓
+死亡
+```
+
+真正的错误可能发生在“继续追”的那一刻，而不是最后那一下。复盘的目标就是找到这个节点。
+
+## 94. 给每场战斗打一个“错误标签”
+
+一场战斗最多选 3 个主要问题：
+
+```text
+[AIM]       准星问题
+[MOVE]      移动问题
+[TRACK]     跟踪问题
+[PREDICT]   预判问题
+[SPACE]     距离问题
+[POS]       站位问题
+[TIMING]    时机问题
+[RESOURCE]  资源问题
+[DECISION]  决策问题
+```
+
+例如：
+
+> `POS + TIMING + RESOURCE`
+
+这比“今天手感不好”有用得多。连续 5 场都出现 `TIMING`，下一次训练就不要再刷 Mace 命中率，而应该专门练“什么时候不打”。
+
+## 95. 一个非常实用的“暂停训练法”
+
+如果你有录像，可以随机暂停在战斗中间，然后问：
+
+> **“如果画面现在继续播放 1 秒，我认为敌人最可能做什么？”**
+
+然后再播放验证。
+
+训练的是 Prediction，而不是反应速度。每天做 20 次这样的预测，比无脑看完整视频更容易建立战斗判断。
+
+## 96. 视频学习法：一段视频看三遍
+
+**第一遍：正常速度。** 不暂停，只理解战斗流程。**第二遍：0.5×～0.75×。** 每次攻击前暂停，看 Wemmbu 的高度、距离、方向和敌人的移动。**第三遍：只看失败。** 不要只看精彩击杀，专门找他什么时候没有 Commit、什么时候放弃追击、什么时候主动 Reset。真正值得学习的往往不是“最帅的一击”，而是“为什么他没有做看起来很帅的那一击”。
+
+## 97. Wemmbu YouTube（YTB）演示：怎么正确看高手视频
+
+视频不是用来“看爽”的，而是训练你的观察能力。建议把下面这些 Wemmbu 官方视频当作**实战演示素材**：先正常看一遍，再按 0.5×～0.75× 慢速观察 Movement、Positioning、Elytra、Mace、Wind Charge 和 Escape。Wemmbu 的频道是 `@wemmbumc`。
+
+### 🎥 推荐演示 1：I Mastered Minecraft Combat
+
+[▶ I Mastered Minecraft Combat — Wemmbu](https://www.youtube.com/watch?v=YPExvQkv_iI)
+
+**重点观察：** Mace 使用、Attack Window（攻击窗口）、Movement、实战决策，以及攻击之后什么时候继续打、什么时候脱离。这个视频尤其适合 Week 4～Week 5 使用。该视频由 Wemmbu 发布于 2024-12-04。citeturn4youtube21
+
+### 🎥 推荐演示 2：It's Impossible to Catch this Player
+
+[▶ It's Impossible to Catch this Player — Wemmbu](https://www.youtube.com/watch?v=o8ocybrrdfw)
+
+**重点观察：** 追击与反追击、Escape（脱离）、Reset（重置）、地形利用和 Wind Charge 的使用时机。不要只看“他怎么逃”，要问自己：**为什么这个位置值得逃？为什么没有继续追？** 该视频是 Wemmbu 的 POV，2024-05-25 发布。citeturn3search0turn3search2
+
+### 🎥 推荐演示 3：How I Escaped Minecraft's Largest Prison
+
+[▶ How I Escaped Minecraft's Largest Prison — Wemmbu](https://www.youtube.com/watch?v=76GgWa0Lb-E)
+
+**重点观察：** Positioning（位置）、Movement Path（移动路线）、资源管理以及如何利用环境制造安全空间。这个视频适合在学习 Positioning、Escape 和 Reset 时观看。citeturn4search3turn4search5
+
+### 🎥 推荐演示 4：I Created Minecraft's Greatest Civilization
+
+[▶ I Created Minecraft's Greatest Civilization — Wemmbu](https://www.youtube.com/watch?v=wbTIN42an0o)
+
+**重点观察：** 不要只盯着剧情，专门观察遭遇战中的移动、地形、距离和敌我位置变化。它更适合作为“综合实战观察素材”。该视频属于 Wemmbu 的官方视频列表。citeturn3search1turn3search0
+
+### 👀 Wemmbu 视频三遍观看法
+
+**第一遍：正常速度。** 不暂停，只理解完整战斗流程。
+
+**第二遍：0.5×～0.75×。** 每次攻击前暂停，记录四件事：`Height（高度）`、`Distance（距离）`、`Direction（方向）`、`Enemy Movement（敌人移动）`。
+
+**第三遍：只看“没有攻击”的时刻。** 这是最重要的一遍。不要只找精彩击杀，而要观察 Wemmbu **什么时候选择不打、什么时候主动 Escape、什么时候 Reset、什么时候等待 Attack Window**。
+
+> **训练原则：不要复制 Wemmbu 的按键顺序，要学习他做决定的原因。**
+
+### 📝 视频观察记录模板
+
+```text
+视频：________________________
+时间点：______________________
+
+敌人位置：____________________
+我的位置：____________________
+高度差：______________________
+距离：________________________
+敌人 Movement：_______________
+
+Wemmbu 为什么没有立即攻击？
+→ ____________________________
+
+什么时候出现 Attack Window？
+→ ____________________________
+
+攻击后为什么 Escape？
+→ ____________________________
+
+他是怎么 Reset 的？
+→ ____________________________
+
+我能不能在训练场复现？
+→ YES / NO
+```
+
+---
+
+## 98. 零基础玩家最应该避免的“假进步”
+
+以下情况看起来像进步，实际上可能没有：
+
+| 假进步 | 真正应该检查 |
+|---|---|
+| CPS 变高 | 命中率有没有提高 |
+| 飞得更快 | 能不能飞到指定位置 |
+| 连招更长 | 是否更安全 |
+| Mace 数字更高 | Safe Hit 有没有提高 |
+| 操作更花 | Decision Error 有没有下降 |
+| 打赢弱玩家 | 遇到会躲的人是否仍然有效 |
+| 胜率提高 | 是否只是因为匹配到更弱对手 |
+
+真正的进步应该表现为：
+
+> **同样的敌人、同样的场地、同样的资源条件下，你犯的错误更少，而且能更早发现错误。**
+
+## 99. 最终训练指标
+
+如果你想长期记录，可以建立一个简单表格：
+
+| 指标 | 第 1 周 | 第 2 周 | 第 3 周 | 第 4 周 |
+|---|---:|---:|---:|---:|
+| Tracking 成功率 |  |  |  |  |
+| 固定目标 Mace |  |  |  |  |
+| 移动目标 Mace |  |  |  |  |
+| Safe Hit |  |  |  |  |
+| 错误 Wind Charge |  |  |  |  |
+| 错误追击 |  |  |  |  |
+| 无意义 Commit |  |  |  |  |
+| 成功 Reset |  |  |  |  |
+| 主要死亡原因 |  |  |  |  |
+
+不用追求每一项都 100%。真正有价值的是看**错误曲线是否下降**。
+
+## 100. 最终把 Wemmbu 风格理解成一个“决策系统”
+
+如果最后只能留下一个模型，就留下这个：
+
+```text
+            OBSERVE
+               ↓
+       Enemy Pattern / Terrain
+               ↓
+            POSITION
+               ↓
+        Height / Distance
+               ↓
+           THREATEN
+               ↓
+       Force a Reaction
+               ↓
+           PREDICT
+               ↓
+       Future Enemy Position
+               ↓
+            COMMIT
+               ↓
+          Mace / Attack
+               ↓
+        ┌──────┴──────┐
+        ↓             ↓
+      HIT            MISS
+        ↓             ↓
+     ESCAPE        ESCAPE
+        ↓             ↓
+        └──── RESET ──┘
+               ↓
+            OBSERVE
+               ↓
+            ADAPT
+```
+
+这才是这套玩法最值得学习的东西。**Wemmbu 风格不是“飞得很花”，而是利用三维移动制造不确定性，再利用敌人的反应创造攻击窗口，攻击后迅速恢复到自己的有利状态。**
+
+---
+
+# 一句话结论
+
+> **不要复制 Wemmbu 的动作，复制他的思维方式：观察 → 定位 → 诱导 → 预判 → 抓窗口 → 攻击 → 脱离 → 重置 → 适应。**
+
+当你可以在战斗中稳定做到这件事时，你才不是“会几个 Wemmbu 连招”，而是真正开始掌握高机动 PVP。
+
+
+由 **chentom2016**制作
